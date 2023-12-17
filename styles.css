@@ -4,9 +4,9 @@
   --primary-color: #a855f7;
   --primary-color-dark: #9333ea;
   --secondary-color: #ca8a04;
-  --text-dark: #668fc9;
+  --text-dark: #000000;
   --text-light: #ffffff;
-  --extra-light: #332d2d;
+  --extra-light: #9333ea;
   --max-width: 1200px;
 }
 
